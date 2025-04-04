@@ -1,5 +1,5 @@
-import insta from "../assets/insta.jpg";
-import surveliance from "../assets/surveliance.jpg";
+import insta from "../assets/insta.JPG";
+import surveliance from "../assets/surveliance.JPG";
 import elegance from "../assets/elegance.png";
 import respect from "../assets/respect.png";
 import phone from "../assets/phone.png";
