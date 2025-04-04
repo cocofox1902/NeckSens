@@ -1,6 +1,6 @@
 import { useState } from "react";
-import produit_1 from "../assets/produit_1.JPG";
-import produit_2 from "../assets/produit_2.JPG";
+import produit_1 from "../assets/produit_1.jpg";
+import produit_2 from "../assets/produit_2.jpg";
 
 function Product() {
   const [mainImage, setMainImage] = useState(produit_1);
